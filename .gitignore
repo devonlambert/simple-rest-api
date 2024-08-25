@@ -3,5 +3,8 @@
 .env
 *__pycache__
 
+#Flask
+.flaskenv
+
 # VS Code
 .vscode
